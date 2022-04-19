@@ -47,6 +47,7 @@ The lab consists of three parts. We will first verify the we have the default pa
 3. Under **Access management**, click on [Account settings](https://console.aws.amazon.com/iam/home#/account_settings).<br>
 4. Observe that this AWS account uses the following default password policy.<br>
 ![Screenshot](/images/Default_Password_Policy.jpg)<br/>
+Note: If you see a custom password policy defined, click on the **Delete** button and acknowledge the confirmation message. 
 
 ### Part 2 - Update password policy configuration: ###
 5. Open the [AWS CloudFormation console](https://console.aws.amazon.com/cloudformation/).<br>
