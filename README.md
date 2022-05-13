@@ -98,4 +98,5 @@ This lab applies a custom IAM Password Policy to an AWS account using an AWS Clo
 
 ## Lab Survey ##
 Thank you for participating in this lab. Please leave us feedback to know how we did and improve in future labs. If the QR code below doesn't work, you can click on the link [here](https://eventbox.dev/survey/A3I6DFZ).
+
 ![Survey QR Code](/images/QR_Code.png)
