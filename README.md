@@ -97,5 +97,5 @@ If you have your [AWS Organizations](https://aws.amazon.com/organizations/) orga
 This lab applies a custom IAM Password Policy to an AWS account using an AWS CloudFormation template. Deletion of the CloudFormation stack has no impact on the current password policy. To reset the account password policy to its default configuration, you can deploy the [CloudFormation reset template](devlab-iam-password-policy-reset.yml) provided to delete the custom password policy created.<br>
 
 ## Lab Survey ##
-Thank you for participating in this lab. Please leave us feedback to know how we did and improve in future labs. If the QR code below doesn't work, you can click on the link [here](https://eventbox.dev/survey/A3I6DFZ)<br>
-![Screenshot](/images/QR_Code.png)<br/>
+Thank you for participating in this lab. Please leave us feedback to know how we did and improve in future labs. If the QR code below doesn't work, you can click on the link [here](https://eventbox.dev/survey/A3I6DFZ).
+![Survey QR Code](/images/QR_Code.png)
